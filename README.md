@@ -60,7 +60,7 @@ streamlit run streamlit_app.py
 
 ## Demo
 
-Попробовать проект онлайн можно по ссылке: [Streamlit Demo](https://madbostanneuralnetswh2.streamlit.app/)
+Попробовать проект онлайн можно по ссылке: [Streamlit Demo](https://madbostanneuralnetshw2.streamlit.app/)
 
 ---
 
